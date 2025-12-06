@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Broken Promises",
+  "base_artist": "ChumuNote",
+  "createdAt": "2025-12-06T02:22:52.292885Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Summer Walker",
+      "has_synced": true,
+      "path": "select/01_Broken_Promises_Summer_Walker.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Survivor",
+      "has_synced": true,
+      "path": "select/02_Broken_Promises_Survivor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Sigma feat. Maverick Sabre",
+      "has_synced": true,
+      "path": "select/03_Broken_Promises_Sigma_feat._Maverick_Sabre.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/04_Broken_Promises_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Philip Selway",
+      "has_synced": true,
+      "path": "select/05_Broken_Promises_Philip_Selway.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Temperance",
+      "has_synced": true,
+      "path": "select/06_Broken_Promises_Temperance.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Mortal Sin",
+      "has_synced": false,
+      "path": "select/07_Broken_Promises_Mortal_Sin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Magnum",
+      "has_synced": true,
+      "path": "select/08_Broken_Promises_Magnum.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Broken Promises (feat. Maverick Sabre)",
+      "artist": "Sigma",
+      "has_synced": true,
+      "path": "select/09_Broken_Promises_(feat._Maverick_Sabre)_Sigma.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Element Eighty",
+      "has_synced": true,
+      "path": "select/10_Broken_Promises_Element_Eighty.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Del Shannon",
+      "has_synced": true,
+      "path": "select/11_Broken_Promises_Del_Shannon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "August Burns Red",
+      "has_synced": true,
+      "path": "select/12_Broken_Promises_August_Burns_Red.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Element Eighty",
+      "has_synced": true,
+      "path": "select/13_Broken_Promises_Element_Eighty.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Broken Promises",
+      "artist": "Prime Circle",
+      "has_synced": true,
+      "path": "select/14_Broken_Promises_Prime_Circle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Land Of Broken Promises",
+      "artist": "IAMX",
+      "has_synced": false,
+      "path": "select/15_Land_Of_Broken_Promises_IAMX.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Broken Promises for Broken Hearts",
+      "artist": "She Wants Revenge",
+      "has_synced": false,
+      "path": "select/16_Broken_Promises_for_Broken_Hearts_She_Wants_Revenge.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Broken Promises (feat. Purukichi)",
+      "artist": "ChumuNote",
+      "has_synced": false,
+      "path": "select/pl_01_Broken_Promises_(feat._Purukichi)_ChumuNote.txt"
+    }
+  ]
+}
