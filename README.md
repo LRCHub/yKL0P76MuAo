@@ -1,0 +1,50 @@
+# ChumuNote – Broken Promises
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You say you don't see me
+愛されるだけで満足しちゃうの？
+I say I don't need you
+君に甘えた過去とお別れ
+You can't deny forever
+いつの間にか消えた
+Broken promises
+Don't say you want someone new
+Whoever say love you
+なんてサイテー bye bye
+あたしは who's always been
+By your side いつまでも
+あなたは who always been
+Lied to me 懲りないね
+いまでは who's always been
+By my side だまされない
+偶然だからとか意味わかんない
+You say you don't see me
+愛されるだけで満足しちゃうの？
+I say I don't need you
+君に甘えた過去とお別れ
+You can't deny forever
+いつの間にか消えた
+Broken promises
+Don't say you want someone new
+Whoever say love you
+なんてサイテー bye bye
+あたしは who's always been
+By your side いつまでも
+あなたは who always been
+Lied to me 懲りないね
+いまでは who's always been
+By my side だまされない
+偶然だからとか意味わかんない
+You say you don't see me
+愛されるだけで満足しちゃうの？
+I say I don't need you
+君に甘えた過去とお別れ
+You can't deny forever
+いつの間にか消えた
+Broken promises
+Don't say you want someone new
+Whoever say love you
+なんてサイテー bye bye
+```
